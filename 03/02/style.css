@@ -1,0 +1,46 @@
+body {
+    background-color: #990909;
+}
+.header {
+    text-align: center;
+}
+.black {
+    background-color: #000;
+    text-align: center;
+    width: 100%;
+    color: white;
+}
+.dark-red {
+    background-color: #7D0909;
+    color: #D44917;
+    width: 190px;
+    vertical-align: top;
+}
+a {
+    color: #D44917;
+}
+.center {
+    vertical-align: top;
+    color: white;
+}
+.white {
+    width: 160px;
+    background-color: white;
+    padding: 5px;
+    vertical-align: top;
+}
+.title {
+    background-color: #BDBDBD;
+    text-align: center;
+}
+hr {
+    width: 70%;
+}
+.copyright {
+    text-align: center;
+    color: white;
+    background-color: #E95B11;
+}
+img {
+    max-width: 100%;
+}
